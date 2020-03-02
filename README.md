@@ -6,3 +6,8 @@ Note: To run the project in a IDE you have to open the package dev.Ghevi.rpg in 
 If you just want the game with runnable jar, simply download the "Runnable only" folder.
 
 JAVA 8 update 231 JDK 1.8 JRE 12.0.2
+
+Commands:
+WASD : moving the character
+arrowKeys : attack in the key direction
+E: open/close the inventory
