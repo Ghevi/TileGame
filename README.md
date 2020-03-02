@@ -9,7 +9,7 @@ JAVA 8 update 231 JDK 1.8 JRE 12.0.2
 
 Commands:
 
-WASD : moving the character
+WASD : move the character
 
 arrowKeys : attack in the key direction
 
