@@ -13,4 +13,4 @@ WASD : move the character
 
 arrowKeys : attack in the key direction
 
-E: open/close the inventory
+E: opens/closes the inventory
